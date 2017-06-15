@@ -22,3 +22,18 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+### For NodeModules
+*/.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+node_modules
+npm-debug.log
+book_img
